@@ -1,7 +1,5 @@
 # LIN1-LABO – scripts d'installation
 
-Nom : xxx – module LIN1, CPNV
-
 Ce dépôt contient les deux scripts de mon projet LIN1. Ils installent et configurent les deux serveurs Debian de la petite infrastructure « LIN1-LABO » :
 
 | Script | Serveur | Ce qu'il fait |

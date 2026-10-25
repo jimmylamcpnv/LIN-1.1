@@ -9,10 +9,7 @@
 #   - utilisateurs et groupes pris dans l'annuaire LDAP de SRV-LIN1-01
 #   - dossiers de groupe (clients, logiciels, commun) avec quotas et droits
 #
-# Projet LIN1-LABO - Nom : xxx
-#
-# Je me suis aidé d'une IA (Claude) pour écrire ce script. Je l'ai relu et testé
-# sur une VM Debian toute neuve, et je peux expliquer chaque partie.
+# Projet LIN1-LABO - Jimmy LAM
 #
 # À lancer APRÈS SRV-LIN1-01.sh, quand le NAS est prêt (RAID, NFS et iSCSI) :
 #     sudo ./SRV-LIN1-02.sh

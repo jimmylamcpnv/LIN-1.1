@@ -58,7 +58,3 @@ Si on change `MDP_NEXTCLOUD` sur SRV-LIN1-01, il faut donner la même valeur à 
 - L'authentification SSH par clé : je l'ai mise en place à la main (`ssh-keygen`, puis copie de la clé publique), c'est expliqué dans la documentation technique.
 - La configuration du NAS OpenMediaVault (RAID1, NFS, iSCSI avec `tgt`).
 - Les clients Fedora et Windows.
-
-## Aide d'une IA
-
-Je me suis aidé d'une IA (Claude) pour écrire ces scripts. Je les ai relus, testés plusieurs fois sur des VM Debian toutes neuves, et je peux expliquer chaque partie. C'est aussi indiqué en tête de chaque script.

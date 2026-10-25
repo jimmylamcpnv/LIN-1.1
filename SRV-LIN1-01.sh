@@ -8,10 +8,7 @@
 #   - annuaire LDAP (OpenLDAP) rempli avec les groupes et les utilisateurs
 #   - LAM (LDAP Account Manager) pour gérer l'annuaire dans un navigateur
 #
-# Projet LIN1-LABO - Nom : xxx
-#
-# Je me suis aidé d'une IA (Claude) pour écrire ce script. Je l'ai relu et testé
-# sur une VM Debian toute neuve, et je peux expliquer chaque partie.
+# Projet LIN1-LABO - Jimmy LAM
 #
 # Utilisation (sur une Debian 13 fraîchement installée, avec Internet sur la 1re carte) :
 #     sudo ./SRV-LIN1-01.sh

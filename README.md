@@ -23,7 +23,7 @@ Toujours dans cet ordre : d'abord SRV-LIN1-01, ensuite SRV-LIN1-02.
 Sur SRV-LIN1-01 :
 
 ```bash
-wget https://raw.githubusercontent.com/<utilisateur>/<depot>/main/SRV-LIN1-01.sh
+wget https://github.com/jimmylamcpnv/LIN-1.1/blob/main/SRV-LIN1-01.sh
 sudo bash SRV-LIN1-01.sh
 ```
 
@@ -32,7 +32,7 @@ Compter environ 3 à 4 minutes. À la fin, le script affiche l'état des service
 Sur SRV-LIN1-02 (une fois que SRV-LIN1-01 et le NAS tournent) :
 
 ```bash
-wget https://raw.githubusercontent.com/<utilisateur>/<depot>/main/SRV-LIN1-02.sh
+wget https://github.com/jimmylamcpnv/LIN-1.1/blob/main/SRV-LIN1-02.sh
 sudo bash SRV-LIN1-02.sh
 ```
 
